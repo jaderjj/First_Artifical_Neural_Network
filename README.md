@@ -1,2 +1,2 @@
-# First_Artifical_Neural_Network
+# First ANN
 My first Artificial Neural Network
