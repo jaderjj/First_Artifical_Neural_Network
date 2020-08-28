@@ -1,0 +1,7 @@
+name: ann-env
+dependencies:
+- python=3.6
+- matplotlib
+- numpy
+- seaborn
+- scikit-learn
